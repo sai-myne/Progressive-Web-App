@@ -1,7 +1,7 @@
 // self.skipWaiting()
 
-const staticCacheName = 'site-static-v3';
-const dynamicCacheName = 'site-dynamic-v3';
+const staticCacheName = 'site-static-v5';
+const dynamicCacheName = 'site-dynamic-v9';
 const assets = [
     '/',
     '/index.html',
